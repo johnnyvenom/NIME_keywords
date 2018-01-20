@@ -3,12 +3,13 @@
 A command line utility to search the archive of NIME conference proceedings (http://nime.org/archive). 
 
 written by John Sullivan | johnny@johnnyvenom.com
+
 January 2018
 
 ## To use: 
 
 - Go to http://nime.org/proceedings/ZIPs/ to download conference proceedings for all years (2001 - 2017)
-- Place each year's proceedings (several .pdf files) in its own directory with the year as its nome, and place this script in the parent directory. 
+- Unzip and place each year's proceedings (several .pdf files) in its own directory with the year as its nome, and place this script in the parent directory. 
 - Run the following command to make it executable:
     
     `chmod u+x keyword.sh`
