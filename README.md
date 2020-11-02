@@ -27,3 +27,4 @@ The script will save the results to data.csv in two parts:
 - It runs a loop to search through all years, but can easily be modified to more specific search criteria, or to search other collections.
 - This script was written to assist research in the preparation of [this]() paper for the 2018 SMC conference. The methodology was adapted from the 2014 NIME paper ["To gesture or Not? An Analysis of Terminology in NIME Proceedings 2001-2013"](https://www.nime.org/proceedings/2014/nime2014_351.pdf) by A. Jensenius. 
 - See also the [additional_scripts](additional_scripts) folder, which contains additional information and tools for the analysis used for the SMC paper. 
+- Additional open source tools were used in the analysis, which are covered in the paper. 
